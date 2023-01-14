@@ -1,0 +1,46 @@
+.imageCricle{
+    border-radius: 100px solid red;
+    /* display: none; */
+    font-family:cursive !important;
+
+    }
+    .btn-primary {
+        color: #fff !important;
+        background-color: black !important;
+        border-color: black !important;
+        font-family:cursive !important;
+
+    }
+    body {
+        margin: 0;
+        font-family:cursive;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-family:cursive !important;
+
+      }
+      
+    .btn-primary :hover {
+        color: #fff;
+        background-color: darkgray !important;
+        border-color: black !important;
+        font-family:cursive !important;
+
+    }
+    
+    .btn-outline-primary {
+        color: black;
+        border-color: black;
+        font-family:cursive !important;
+
+    }
+    .btn-outline-primary {
+        background-color: darkgray !important;
+        border-color: black;
+        font-family:cursive !important;
+
+    }
+    .card-title {
+        margin-bottom: 0.75rem;
+        font-family: cursive !important;
+    }
